@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Code side of ditto-app bin/console/connectTestCases.ts. Keep the values in sync with that file. -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="ct_exact">Review your transfer</string>
+    <string name="ct_duplicate">Add a recipient</string>
+    <string name="ct_case">Pay Now</string>
+    <string name="ct_punctuation">Transfer complete.</string>
+    <string name="ct_whitespace">Payment sent</string>
+    <string name="ct_code_only">Freeze your card</string>
+    <string name="ct_variable">Hi <xliff:g id="firstName" example="Sam">%1$s</xliff:g>, welcome back</string>
+    <string name="ct_variant">Account settings</string>
+</resources>
